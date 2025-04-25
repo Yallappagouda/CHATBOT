@@ -38,5 +38,5 @@ python app.py
 
 ###OUTPUT
 '''
+```
 ![WhatsApp Image 2025-04-25 at 16 39 08_44699f99](https://github.com/user-attachments/assets/59afa365-7f71-482e-bf8d-70aa7a595a83)
-'''
