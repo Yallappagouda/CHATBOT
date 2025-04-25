@@ -1,0 +1,10 @@
+streamlit
+langchain
+faiss-cpu
+PyMuPDF
+langchain-google-genai
+langchain-huggingface
+tf-keras
+torch
+langchain-community
+langchain-text-splitters
